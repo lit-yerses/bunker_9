@@ -1,0 +1,26 @@
+start projektu dnia 27.05.2026
+
+02.06 -
+
+ten start tak naprawdę był wcześniej, dnia 19.05.1987 (rok kontuzji każdego wf-isty)
+
+od wtedy po kilku dniach (niecałym tygodniu) zrobiłem działającą kostkę rubika. może wykonywać
+wszystkie ruchy (R, R', L, L', U, U', D, D', F, F', B, B')
+
+jedyne, czego jej brakuje, żeby była funkcjonalna, to x oraz y (wraz z primami ofc), czyli obrót CAŁEJ
+KOSTKI, CO NIE BĘDZIE ŁATWE, BO BĘDZIE TRZEBA ZAMIENIĆ ZE SOBĄ MIEJSCAMI 9x6=54
+KWADRACIKI, A KAŻDY MA DWIE WSPÓŁRZĘDNE, BO SĄ TO TABLICE 2D
+
+ANYWAYS
+
+już wszystko wiem, jak robić, wszystkie te gitowe komendy i takie tam :]
+
+problem w tym, że nie mam tu pliku z moim kodem ... wiem wiem, słaba organizacja. aaale nie mam
+nic dziś do roboty w domu, więc nadrobię materiał za dom PLUS dzisiejszą lekcję
+
+z ciekawostki na dziś, jest dzień lesbijek. z źródła *GAZETA.PL* najbardziej znane lesbijki na świecie
+(nie lubię tego określenia. w takim przypadku nie mamy najmniejszego prawa mówić „na świecie”,
+nie jesteśmy j* światem, jesteśmy jedną z oo planet) to: Cynthia Nixon, Ellen DeGeneres, Portia De
+Rossi, Kelly McGillis oraz Jane Lynch!
+
+to by było na tyle :3
