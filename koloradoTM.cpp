@@ -23,6 +23,7 @@ void tw(string color, string text, int delay = 25){
 int main()
 {
     int a;
+    cout << "*nie biore odpowiedzialnosci ani nie przyznaje sie do cringe'u*" << endl << endl;
     tw(r,"Uszanowanie!");
     Sleep(1500);
     tw(r,"\nPiszesz projekt na informatyke?");
