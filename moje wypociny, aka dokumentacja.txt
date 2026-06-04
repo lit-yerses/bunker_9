@@ -8,6 +8,7 @@ jedyne, czego jej brakuje, żeby była funkcjonalna, to x oraz y (wraz z primami
 ANYWAYS
 już wszystko wiem, jak robić, wszystkie te gitowe komendy i takie tam :]
 problem w tym, że nie mam tu pliku z moim kodem ... wiem wiem, słaba organizacja. aaale nie mam nic dziś do roboty w domu, więc nadrobię materiał za dom PLUS dzisiejszą lekcję
+
 z ciekawostki na dziś, jest dzień lesbijek. ze źródła *GAZETA.PL* najbardziej znane lesbijki na świecie (nie lubię tego określenia. w takim przypadku nie mamy najmniejszego prawa mówić „na świecie”, nie jesteśmy całym światem, jesteśmy jedną z oo planet) to: Cynthia Nixon, Ellen DeGeneres, Portia De Rossi, Kelly McGillis oraz Jane Lynch!
 to by było na tyle :3
 
@@ -30,3 +31,13 @@ nie zawsze wiedziałem co piszę, więc jak są błędy w kodzie to z góry prze
 ciekawostka na dziś, dzień osób bi. najsławniejsze osoby biseksualne według internetu (kilka źródeł): Megan Fox, Doda, Angelina Jolie, Billy Eillish, Marlon Brando oraz James Franco!
 instrukcje do kostki zrobię jutro
 bye
+
+
+
+★ - 04.06 - ★
+
+SKOŃCZONE. nareszczcie SkOńCzOnE. kostka działa, kolory nową metodą prosto z Kolorado podrasowane, niealfabetyczny glosariusz skonstruowany, wszystko cacy. chyba, że o czymś zapominam, ale to już nie wiem
+było bardzo fajnie, dalej będę próbować z tą spiralą. problem z nią wygląda tak, że najpierw muszą ją skonstruować wizualnie, żeby dopiero wiedzieć, jak ją kodować. a ten element, jak się okazuje kiedy ma się perfekcjonizm, nie jest prosty. więc na razie rysuję, a potem będzie kodowanko. tak, nauki piękna i ścisłe, idące ramię w ramię, żeby sprostać moim wygórowanym wymaganiom
+
+z tradycyjnej już ciekawostki na dziś, jest dzień osób poliseksualnych. co to znaczy, spytają. sam do końca nie wiem, odpowiem. po lekkiej pomocy internetu: są to osoby, które lubią kilka płci, ale w odróżnieniu od panseksualistów, nie wszystkie. było tu trudno kogoś znaleźć, a jeszcze trudniej uwiarygodnić, więc jest po łebkach trochę, ale: najsławniejsze osoby poliseksualne według AI(tylko on coś podał, nawet artykułu żadnego nie ma, beznadzieja) to: Amandla Stenberg oraz Angel Haze
+bajo

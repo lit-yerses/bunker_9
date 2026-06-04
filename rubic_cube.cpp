@@ -2,13 +2,13 @@
 #include <windows.h>
 #include <tuple>
 #define RESET   "\033[0m"
-#define BLACK   "\033[30m"
-#define RED     "\033[31m"
-#define GREEN   "\033[32m"
-#define YELLOW  "\033[33m"
-#define BLUE    "\033[34m"
-#define ORANGE "\033[38;5;208m"
-#define WHITE   "\033[1m\033[37m"
+#define BLACK   "\033[38;2;0;0;0m"
+#define RED     "\033[38;2;255;0;0m"
+#define GREEN   "\033[38;2;0;230;0m"
+#define YELLOW  "\033[38;2;250;250;0m"
+#define BLUE    "\033[38;2;0;100;255m"
+#define ORANGE  "\033[38;2;255;85;0m"
+#define WHITE   "\033[38;2;255;255;255m"
 using namespace std;
 struct wall{
     char s;
@@ -16,13 +16,6 @@ struct wall{
 };
 wall a[9][12];
 /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// ///
-
-/* a[][], ,
-void (){
-    tie() =
-make_tuple();
-}
-*/
 void y(){
       tie(a[3][0], a[3][1], a[3][2], a[4][0], a[4][1], a[4][2], a[5][0], a[5][1], a[5][2], a[3][3], a[3][4], a[3][5], a[4][3], a[4][4], a[4][5], a[5][3], a[5][4], a[5][5], a[3][6], a[3][7], a[3][8], a[4][6], a[4][7], a[4][8], a[5][6], a[5][7], a[5][8], a[3][9], a[3][10], a[3][11], a[4][9], a[4][10], a[4][11], a[5][9], a[5][10], a[5][11], a[0][3], a[0][4], a[0][5], a[1][5], a[2][5], a[2][4], a[2][3], a[1][3], a[8][3], a[7][3], a[6][3], a[6][4], a[6][5], a[7][5], a[8][5], a[8][4]) =
 make_tuple(a[3][3], a[3][4], a[3][5], a[4][3], a[4][4], a[4][5], a[5][3], a[5][4], a[5][5], a[3][6], a[3][7], a[3][8], a[4][6], a[4][7], a[4][8], a[5][6], a[5][7], a[5][8], a[3][9], a[3][10], a[3][11], a[4][9], a[4][10], a[4][11], a[5][9], a[5][10], a[5][11], a[3][0], a[3][1], a[3][2], a[4][0], a[4][1], a[4][2], a[5][0], a[5][1], a[5][2], a[2][3], a[1][3], a[0][3], a[0][4], a[0][5], a[1][5], a[2][5], a[2][4], a[6][3], a[6][4], a[6][5], a[7][5], a[8][5], a[8][4], a[8][3], a[7][3]);
@@ -108,6 +101,14 @@ make_tuple(a[3][9], a[3][10], a[3][11], a[4][11], a[5][11], a[5][10], a[5][9], a
 /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// /// ///
 int main()
 {
+    cout << "~ . ~ SPIS RUCHOW ~ . ~";
+    cout << "\n\nr - prawa scianka w gore\nr' - prawa scianka w dol";
+    cout << "\nl - lewa scianka w dol\nl' - lewa scianka w gore";
+    cout << "\nu - gorna scianka w lewo\nu' - gorna scianka w prawo";
+    cout << "\nd - dolna scianka w prawo\nd' - dolna scianka w lewo";
+    cout << "\nf - przednia scianka w prawo\nf' - przednia scianka w lewo";
+    cout << "\nb - tylna scianka w lewo\nb' - tylna scianka w prawo";
+    cout << "\ny - obrot kostki w lewo\ny' - obrot kostki w prawo\n\n\n\n";
     for(int w=0; w<9; w++){
         for(int k=0; k<12; k++){
             if(k<3 && w<3){
