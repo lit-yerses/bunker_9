@@ -21,6 +21,14 @@ void tw(string color, string text, int delay = 25){
 }
 
 
+void d(int znaki){
+    for(int i=0; i<znaki; i++){
+        cout << "\b \b" << flush;
+        Sleep(25);
+    }
+}
+
+
 void vaccuum(int wiersze){
     for(int w=0; w<wiersze; w++){
         for(int k=0; k<30; k++){
@@ -286,6 +294,7 @@ int main()
     head(5);
     tw(WHITE,"hello",50);
     s(300);
+    d(5);
     clean();
     headd(5);
     s(1000);
@@ -293,17 +302,7 @@ int main()
     turnstat(6);
     s(1000);
     clean();
-    head(6);
-    cout << endl;
+    head(6);;
     tw(WHITE, "what r u waitin for...?",50);
-
-    int sekundy;
-
-    std::cout << "Podaj sekunde, od ktorej zaczac film: ";
-    std::cin >> sekundy;
-
-    std::string link = "https://youtube.com" + std::to_string(sekundy);
-
-    ShellExecute(0, "open", link.c_str(), NULL, NULL, SW_SHOWNORMAL);
 
 }
