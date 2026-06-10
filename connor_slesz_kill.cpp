@@ -306,6 +306,4 @@ int main()
 
     ShellExecute(0, "open", link.c_str(), NULL, NULL, SW_SHOWNORMAL);
 
-    return 0;
-
 }
